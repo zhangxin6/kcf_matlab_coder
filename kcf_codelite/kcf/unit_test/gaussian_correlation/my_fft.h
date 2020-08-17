@@ -1,0 +1,10 @@
+void fft(creal_T1 x[],int N);
+void fft2(creal_T1 vector[],creal_T1 vector1[],int M,int N);
+void fft2_d(double vector[],creal_T1 vector1[],int M,int N);
+void ifft(creal_T1 vector[],int N);
+void ifft2(creal_T1 vector[],creal_T1 vector1[],int M,int N);
+void change(int N, creal_T1 vector[]);
+void add(creal_T1 a, creal_T1 b, creal_T1* c);
+void mul(creal_T1 a, creal_T1 b, creal_T1* c);
+void sub(creal_T1 a, creal_T1 b, creal_T1 *c);
+void divi(creal_T1 a, creal_T1 b, creal_T1* c);

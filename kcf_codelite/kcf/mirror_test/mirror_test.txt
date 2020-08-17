@@ -1,0 +1,901 @@
+[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+step 1 success
+step 2 success
+step 3 success
+step 4 success
+step 5 success
+step 6 success
+step 7 success
+step 8 success
+seq=1,type=gaussian,frame=1
+step 9 success
+step 10 success
+step 11 success
+step 12 success
+step 13 success
+step 14 success
+step 15 success
+step 16 success
+step 17 success
+step 18 success
+step 19 success
+step 20 success
+step 21 success
+seq=1,type=gaussian,frame=2
+step 22 success
+step 23 success
+step 24 success
+step 25 success
+step 26 success
+step 27 success
+step 28 success
+step 29 success
+step 30 success
+step 31 success
+step 32 success
+step 33 success
+step 34 success
+seq=1,type=gaussian,frame=3
+step 35 success
+step 36 success
+step 37 success
+step 38 success
+step 39 success
+step 40 success
+step 41 success
+step 42 success
+step 43 success
+step 44 success
+step 45 success
+step 46 success
+step 47 success
+seq=1,type=gaussian,frame=4
+step 48 success
+step 49 success
+step 50 success
+step 51 success
+step 52 success
+step 53 success
+step 54 success
+step 55 success
+step 56 success
+step 57 success
+step 58 success
+step 59 success
+step 60 success
+seq=1,type=gaussian,frame=5
+step 61 success
+step 62 success
+step 63 success
+step 64 success
+step 65 success
+step 66 success
+step 67 success
+step 68 success
+step 69 success
+step 70 success
+step 71 success
+step 72 success
+step 73 success
+seq=1,type=gaussian,frame=6
+step 74 success
+step 75 success
+step 76 success
+step 77 success
+step 78 success
+step 79 success
+step 80 success
+step 81 success
+step 82 success
+step 83 success
+step 84 success
+step 85 success
+step 86 success
+seq=1,type=gaussian,frame=7
+step 87 success
+step 88 success
+step 89 success
+step 90 success
+step 91 success
+step 92 success
+step 93 success
+step 94 success
+step 95 success
+step 96 success
+step 97 success
+step 98 success
+step 99 success
+seq=1,type=gaussian,frame=8
+step 100 success
+step 101 success
+step 102 success
+step 103 success
+step 104 success
+step 105 success
+step 106 success
+step 107 success
+step 108 success
+step 109 success
+step 110 success
+step 111 success
+step 112 success
+seq=1,type=gaussian,frame=9
+step 113 success
+step 114 success
+step 115 success
+step 116 success
+step 117 success
+step 118 success
+step 119 success
+step 120 success
+step 121 success
+step 122 success
+step 123 success
+step 124 success
+step 125 success
+seq=1,type=gaussian,frame=10
+
+endl =
+
+     1
+
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+step 1 success
+step 2 success
+step 3 success
+step 4 success
+step 5 success
+step 6 success
+step 7 success
+step 8 success
+seq=1,type=polynomial,frame=1
+step 9 success
+step 10 success
+step 11 success
+step 12 success
+step 13 success
+step 14 success
+step 15 success
+step 16 success
+step 17 success
+step 18 success
+step 19 success
+step 20 success
+step 21 success
+seq=1,type=polynomial,frame=2
+step 22 success
+step 23 success
+step 24 success
+step 25 success
+step 26 success
+step 27 success
+step 28 success
+step 29 success
+step 30 success
+step 31 success
+step 32 success
+step 33 success
+step 34 success
+seq=1,type=polynomial,frame=3
+step 35 success
+step 36 success
+step 37 success
+step 38 success
+step 39 success
+step 40 success
+step 41 success
+step 42 success
+step 43 success
+step 44 success
+step 45 success
+step 46 success
+step 47 success
+seq=1,type=polynomial,frame=4
+step 48 success
+step 49 success
+step 50 success
+step 51 success
+step 52 success
+step 53 success
+step 54 success
+step 55 success
+step 56 success
+step 57 success
+step 58 success
+step 59 success
+step 60 success
+seq=1,type=polynomial,frame=5
+step 61 success
+step 62 success
+step 63 success
+step 64 success
+step 65 success
+step 66 success
+step 67 success
+step 68 success
+step 69 success
+step 70 success
+step 71 success
+step 72 success
+step 73 success
+seq=1,type=polynomial,frame=6
+step 74 success
+step 75 success
+step 76 success
+step 77 success
+step 78 success
+step 79 success
+step 80 success
+step 81 success
+step 82 success
+step 83 success
+step 84 success
+step 85 success
+step 86 success
+seq=1,type=polynomial,frame=7
+step 87 success
+step 88 success
+step 89 success
+step 90 success
+step 91 success
+step 92 success
+step 93 success
+step 94 success
+step 95 success
+step 96 success
+step 97 success
+step 98 success
+step 99 success
+seq=1,type=polynomial,frame=8
+step 100 success
+step 101 success
+step 102 success
+step 103 success
+step 104 success
+step 105 success
+step 106 success
+step 107 success
+step 108 success
+step 109 success
+step 110 success
+step 111 success
+step 112 success
+seq=1,type=polynomial,frame=9
+step 113 success
+step 114 success
+step 115 success
+step 116 success
+step 117 success
+step 118 success
+step 119 success
+step 120 success
+step 121 success
+step 122 success
+step 123 success
+step 124 success
+step 125 success
+seq=1,type=polynomial,frame=10
+
+endl =
+
+     1
+
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+step 1 success
+step 2 success
+step 3 success
+step 4 success
+step 5 success
+step 6 success
+step 7 success
+step 8 success
+seq=1,type=linear,frame=1
+step 9 success
+step 10 success
+step 11 success
+step 12 success
+step 13 success
+step 14 success
+step 15 success
+step 16 success
+step 17 success
+step 18 success
+step 19 success
+step 20 success
+step 21 success
+seq=1,type=linear,frame=2
+step 22 success
+step 23 success
+step 24 success
+step 25 success
+step 26 success
+step 27 success
+step 28 success
+step 29 success
+step 30 success
+step 31 success
+step 32 success
+step 33 success
+step 34 success
+seq=1,type=linear,frame=3
+step 35 success
+step 36 success
+step 37 success
+step 38 success
+step 39 success
+step 40 success
+step 41 success
+step 42 success
+step 43 success
+step 44 success
+step 45 success
+step 46 success
+step 47 success
+seq=1,type=linear,frame=4
+step 48 success
+step 49 success
+step 50 success
+step 51 success
+step 52 success
+step 53 success
+step 54 success
+step 55 success
+step 56 success
+step 57 success
+step 58 success
+step 59 success
+step 60 success
+seq=1,type=linear,frame=5
+step 61 success
+step 62 success
+step 63 success
+step 64 success
+step 65 success
+step 66 success
+step 67 success
+step 68 success
+step 69 success
+step 70 success
+step 71 success
+step 72 success
+step 73 success
+seq=1,type=linear,frame=6
+step 74 success
+step 75 success
+step 76 success
+step 77 success
+step 78 success
+step 79 success
+step 80 success
+step 81 success
+step 82 success
+step 83 success
+step 84 success
+step 85 success
+step 86 success
+seq=1,type=linear,frame=7
+step 87 success
+step 88 success
+step 89 success
+step 90 success
+step 91 success
+step 92 success
+step 93 success
+step 94 success
+step 95 success
+step 96 success
+step 97 success
+step 98 success
+step 99 success
+seq=1,type=linear,frame=8
+step 100 success
+step 101 success
+step 102 success
+step 103 success
+step 104 success
+step 105 success
+step 106 success
+step 107 success
+step 108 success
+step 109 success
+step 110 success
+step 111 success
+step 112 success
+seq=1,type=linear,frame=9
+step 113 success
+step 114 success
+step 115 success
+step 116 success
+step 117 success
+step 118 success
+step 119 success
+step 120 success
+step 121 success
+step 122 success
+step 123 success
+step 124 success
+step 125 success
+seq=1,type=linear,frame=10
+
+endl =
+
+     1
+
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+step 1 success
+step 2 success
+step 3 success
+step 4 success
+step 5 success
+step 6 success
+step 7 success
+step 8 success
+seq=2,type=gaussian,frame=1
+step 9 success
+step 10 success
+step 11 success
+step 12 success
+step 13 success
+step 14 success
+step 15 success
+step 16 success
+step 17 success
+step 18 success
+step 19 success
+step 20 success
+step 21 success
+seq=2,type=gaussian,frame=2
+step 22 success
+step 23 success
+step 24 success
+step 25 success
+step 26 success
+step 27 success
+step 28 success
+step 29 success
+step 30 success
+step 31 success
+step 32 success
+step 33 success
+step 34 success
+seq=2,type=gaussian,frame=3
+step 35 success
+step 36 success
+step 37 success
+step 38 success
+step 39 success
+step 40 success
+step 41 success
+step 42 success
+step 43 success
+step 44 success
+step 45 success
+step 46 success
+step 47 success
+seq=2,type=gaussian,frame=4
+step 48 success
+step 49 success
+step 50 success
+step 51 success
+step 52 success
+step 53 success
+step 54 success
+step 55 success
+step 56 success
+step 57 success
+step 58 success
+step 59 success
+step 60 success
+seq=2,type=gaussian,frame=5
+step 61 success
+step 62 success
+step 63 success
+step 64 success
+step 65 success
+step 66 success
+step 67 success
+step 68 success
+step 69 success
+step 70 success
+step 71 success
+step 72 success
+step 73 success
+seq=2,type=gaussian,frame=6
+step 74 success
+step 75 success
+step 76 success
+step 77 success
+step 78 success
+step 79 success
+step 80 success
+step 81 success
+step 82 success
+step 83 success
+step 84 success
+step 85 success
+step 86 success
+seq=2,type=gaussian,frame=7
+step 87 success
+step 88 success
+step 89 success
+step 90 success
+step 91 success
+step 92 success
+step 93 success
+step 94 success
+step 95 success
+step 96 success
+step 97 success
+step 98 success
+step 99 success
+seq=2,type=gaussian,frame=8
+step 100 success
+step 101 success
+step 102 success
+step 103 success
+step 104 success
+step 105 success
+step 106 success
+step 107 success
+step 108 success
+step 109 success
+step 110 success
+step 111 success
+step 112 success
+seq=2,type=gaussian,frame=9
+step 113 success
+step 114 success
+step 115 success
+step 116 success
+step 117 success
+step 118 success
+step 119 success
+step 120 success
+step 121 success
+step 122 success
+step 123 success
+step 124 success
+step 125 success
+seq=2,type=gaussian,frame=10
+
+endl =
+
+     1
+
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+step 1 success
+step 2 success
+step 3 success
+step 4 success
+step 5 success
+step 6 success
+step 7 success
+step 8 success
+seq=2,type=polynomial,frame=1
+step 9 success
+step 10 success
+step 11 success
+step 12 success
+step 13 success
+step 14 success
+step 15 success
+step 16 success
+step 17 success
+step 18 success
+step 19 success
+step 20 success
+step 21 success
+seq=2,type=polynomial,frame=2
+step 22 success
+step 23 success
+step 24 success
+step 25 success
+step 26 success
+step 27 success
+step 28 success
+step 29 success
+step 30 success
+step 31 success
+step 32 success
+step 33 success
+step 34 success
+seq=2,type=polynomial,frame=3
+step 35 success
+step 36 success
+step 37 success
+step 38 success
+step 39 success
+step 40 success
+step 41 success
+step 42 success
+step 43 success
+step 44 success
+step 45 success
+step 46 success
+step 47 success
+seq=2,type=polynomial,frame=4
+step 48 success
+step 49 success
+step 50 success
+step 51 success
+step 52 success
+step 53 success
+step 54 success
+step 55 success
+step 56 success
+step 57 success
+step 58 success
+step 59 success
+step 60 success
+seq=2,type=polynomial,frame=5
+step 61 success
+step 62 success
+step 63 success
+step 64 success
+step 65 success
+step 66 success
+step 67 success
+step 68 success
+step 69 success
+step 70 success
+step 71 success
+step 72 success
+step 73 success
+seq=2,type=polynomial,frame=6
+step 74 success
+step 75 success
+step 76 success
+step 77 success
+step 78 success
+step 79 success
+step 80 success
+step 81 success
+step 82 success
+step 83 success
+step 84 success
+step 85 success
+step 86 success
+seq=2,type=polynomial,frame=7
+step 87 success
+step 88 success
+step 89 success
+step 90 success
+step 91 success
+step 92 success
+step 93 success
+step 94 success
+step 95 success
+step 96 success
+step 97 success
+step 98 success
+step 99 success
+seq=2,type=polynomial,frame=8
+step 100 success
+step 101 success
+step 102 success
+step 103 success
+step 104 success
+step 105 success
+step 106 success
+step 107 success
+step 108 success
+step 109 success
+step 110 success
+step 111 success
+step 112 success
+seq=2,type=polynomial,frame=9
+step 113 success
+step 114 success
+step 115 success
+step 116 success
+step 117 success
+step 118 success
+step 119 success
+step 120 success
+step 121 success
+step 122 success
+step 123 success
+step 124 success
+step 125 success
+seq=2,type=polynomial,frame=10
+
+endl =
+
+     1
+
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+step 1 success
+step 2 success
+step 3 success
+step 4 success
+step 5 success
+step 6 success
+step 7 success
+step 8 success
+seq=2,type=linear,frame=1
+step 9 success
+step 10 success
+step 11 success
+step 12 success
+step 13 success
+step 14 success
+step 15 success
+step 16 success
+step 17 success
+step 18 success
+step 19 success
+step 20 success
+step 21 success
+seq=2,type=linear,frame=2
+step 22 success
+step 23 success
+step 24 success
+step 25 success
+step 26 success
+step 27 success
+step 28 success
+step 29 success
+step 30 success
+step 31 success
+step 32 success
+step 33 success
+step 34 success
+seq=2,type=linear,frame=3
+step 35 success
+step 36 success
+step 37 success
+step 38 success
+step 39 success
+step 40 success
+step 41 success
+step 42 success
+step 43 success
+step 44 success
+step 45 success
+step 46 success
+step 47 success
+seq=2,type=linear,frame=4
+step 48 success
+step 49 success
+step 50 success
+step 51 success
+step 52 success
+step 53 success
+step 54 success
+step 55 success
+step 56 success
+step 57 success
+step 58 success
+step 59 success
+step 60 success
+seq=2,type=linear,frame=5
+step 61 success
+step 62 success
+step 63 success
+step 64 success
+step 65 success
+step 66 success
+step 67 success
+step 68 success
+step 69 success
+step 70 success
+step 71 success
+step 72 success
+step 73 success
+seq=2,type=linear,frame=6
+step 74 success
+step 75 success
+step 76 success
+step 77 success
+step 78 success
+step 79 success
+step 80 success
+step 81 success
+step 82 success
+step 83 success
+step 84 success
+step 85 success
+step 86 success
+seq=2,type=linear,frame=7
+step 87 success
+step 88 success
+step 89 success
+step 90 success
+step 91 success
+step 92 success
+step 93 success
+step 94 success
+step 95 success
+step 96 success
+step 97 success
+step 98 success
+step 99 success
+seq=2,type=linear,frame=8
+step 100 success
+step 101 success
+step 102 success
+step 103 success
+step 104 success
+step 105 success
+step 106 success
+step 107 success
+step 108 success
+step 109 success
+step 110 success
+step 111 success
+step 112 success
+seq=2,type=linear,frame=9
+step 113 success
+step 114 success
+step 115 success
+step 116 success
+step 117 success
+step 118 success
+step 119 success
+step 120 success
+step 121 success
+step 122 success
+step 123 success
+step 124 success
+step 125 success
+seq=2,type=linear,frame=10
+
+endl =
+
+     1
+
+[?1l>

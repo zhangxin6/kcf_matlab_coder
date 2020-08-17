@@ -1,0 +1,748 @@
+[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_fft2_d (line 4)
+  In atest_fft2_d (line 15)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+fft2_d's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_fft2_d (line 4)
+  In atest_fft2_d (line 26)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+fft2_d's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_fft2_d (line 4)
+  In atest_fft2_d (line 37)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+fft2_d's testcase 3 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_polynomial_correlation (line 30)
+  In atest_polynomial_correlation (line 26)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+polynomial_correlation's testcase 0 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_polynomial_correlation (line 30)
+  In atest_polynomial_correlation (line 33)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+polynomial_correlation's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_polynomial_correlation (line 30)
+  In atest_polynomial_correlation (line 50)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+polynomial_correlation's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_polynomial_correlation (line 30)
+  In atest_polynomial_correlation (line 67)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+polynomial_correlation's testcase 3 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_polynomial_correlation (line 30)
+  In atest_polynomial_correlation (line 82)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+polynomial_correlation's testcase 4 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_gaussian_shaped_labels (line 29)
+  In atest_gaussian_shaped_labels (line 12)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+gaussian_shaped_labels's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_gaussian_shaped_labels (line 29)
+  In atest_gaussian_shaped_labels (line 18)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+gaussian_shaped_labels's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_gaussian_shaped_labels (line 29)
+  In atest_gaussian_shaped_labels (line 29)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+gaussian_shaped_labels's testcase 3 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_get_subwindow (line 29)
+  In atest_get_subwindow (line 18)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+get_subwindow's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_get_subwindow (line 29)
+  In atest_get_subwindow (line 22)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+get_subwindow's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_get_subwindow (line 29)
+  In atest_get_subwindow (line 27)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+get_subwindow's testcase 3 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_linear_correlation (line 29)
+  In atest_linear_correlation (line 14)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+linear_correlation's testcase 0 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_linear_correlation (line 29)
+  In atest_linear_correlation (line 21)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+linear_correlation's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_linear_correlation (line 29)
+  In atest_linear_correlation (line 38)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+linear_correlation's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_linear_correlation (line 29)
+  In atest_linear_correlation (line 55)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+linear_correlation's testcase 3 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_linear_correlation (line 29)
+  In atest_linear_correlation (line 70)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+linear_correlation's testcase 4 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_b_exp (line 30)
+  In atest_b_exp (line 13)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+b_exp's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_b_exp (line 30)
+  In atest_b_exp (line 24)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+b_exp's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_b_exp (line 30)
+  In atest_b_exp (line 35)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+b_exp's testcase 3 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_circshift (line 29)
+  In atest_circshift (line 16)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+circshift's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_circshift (line 29)
+  In atest_circshift (line 35)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+circshift's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_circshift (line 29)
+  In atest_circshift (line 52)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+circshift's testcase 3 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_ifft2 (line 4)
+  In atest_ifft2 (line 13)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+ifft2's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_ifft2 (line 4)
+  In atest_ifft2 (line 19)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+ifft2's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_ifft2 (line 4)
+  In atest_ifft2 (line 30)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+ifft2's testcase 3 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_ifft2 (line 4)
+  In atest_ifft2 (line 41)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+ifft2's testcase 4 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[?1h=[?1h=[?1h=MEX 已成功完成。
+get_features's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[?1h=[?1h=[?1h=MEX 已成功完成。
+get_features's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[?1h=[?1h=[?1h=MEX 已成功完成。
+get_features's testcase 3 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_c_exp (line 30)
+  In atest_c_exp (line 13)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+c_exp's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_c_exp (line 30)
+  In atest_c_exp (line 24)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+c_exp's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_c_exp (line 30)
+  In atest_c_exp (line 35)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+c_exp's testcase 3 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_fft2 (line 4)
+  In atest_fft2 (line 13)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+fft2's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_fft2 (line 4)
+  In atest_fft2 (line 19)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+fft2's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_fft2 (line 4)
+  In atest_fft2 (line 30)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+fft2's testcase 3 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_fft2 (line 4)
+  In atest_fft2 (line 41)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+fft2's testcase 4 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_ndgrid (line 29)
+  In atest_ndgrid (line 15)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+ndgrid's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_ndgrid (line 29)
+  In atest_ndgrid (line 21)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+ndgrid's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_ndgrid (line 29)
+  In atest_ndgrid (line 26)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+ndgrid's testcase 3 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_gaussian_correlation (line 29)
+  In atest_gaussian_correlation (line 15)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+gaussian_correlation's testcase 0 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_gaussian_correlation (line 29)
+  In atest_gaussian_correlation (line 23)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+gaussian_correlation's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_gaussian_correlation (line 29)
+  In atest_gaussian_correlation (line 41)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+gaussian_correlation's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_gaussian_correlation (line 29)
+  In atest_gaussian_correlation (line 59)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+gaussian_correlation's testcase 3 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_gaussian_correlation (line 29)
+  In atest_gaussian_correlation (line 75)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+gaussian_correlation's testcase 4 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[警告: 未找到文件 'mex_fft.mexa64'。] 
+[> In stest_ifft (line 2)
+  In atest_ifft (line 12)] 
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_ifft (line 3)
+  In atest_ifft (line 12)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+ifft's testcase 1 success
+[警告: 未找到文件 'mex_fft.mexa64'。] 
+[> In stest_ifft (line 2)
+  In atest_ifft (line 21)] 
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_ifft (line 3)
+  In atest_ifft (line 21)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+ifft's testcase 2 success
+[警告: 未找到文件 'mex_fft.mexa64'。] 
+[> In stest_ifft (line 2)
+  In atest_ifft (line 29)] 
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_ifft (line 3)
+  In atest_ifft (line 29)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+ifft's testcase 3 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_power (line 29)
+  In atest_power (line 13)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+power's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_power (line 29)
+  In atest_power (line 24)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+power's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_power (line 29)
+  In atest_power (line 36)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+power's testcase 3 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_div_f (line 29)
+  In atest_div_f (line 15)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+div_f's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_div_f (line 29)
+  In atest_div_f (line 33)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+div_f's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_div_f (line 29)
+  In atest_div_f (line 51)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+div_f's testcase 3 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[警告: 未找到文件 'mex_fft.mexa64'。] 
+[> In stest_data_input (line 3)
+  In atest_data_input (line 12)] 
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_data_input (line 4)
+  In atest_data_input (line 12)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+data_input's testcase 1 success
+[警告: 未找到文件 'mex_fft.mexa64'。] 
+[> In stest_data_input (line 3)
+  In atest_data_input (line 18)] 
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_data_input (line 4)
+  In atest_data_input (line 18)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+data_input's testcase 2 success
+[警告: 未找到文件 'mex_fft.mexa64'。] 
+[> In stest_data_input (line 3)
+  In atest_data_input (line 23)] 
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_data_input (line 4)
+  In atest_data_input (line 23)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+data_input's testcase 3 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_conj_f (line 29)
+  In atest_conj_f (line 13)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+conj_f's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_conj_f (line 29)
+  In atest_conj_f (line 24)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+conj_f's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_conj_f (line 29)
+  In atest_conj_f (line 35)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+conj_f's testcase 3 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_mul_f (line 29)
+  In atest_mul_f (line 15)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+mul_f's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_mul_f (line 29)
+  In atest_mul_f (line 33)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+mul_f's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_mul_f (line 29)
+  In atest_mul_f (line 51)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+mul_f's testcase 3 success
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[H[2J[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_fft (line 3)
+  In atest_fft (line 12)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+fft's testcase 1 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_fft (line 3)
+  In atest_fft (line 21)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+fft's testcase 2 success
+[?1h=[?1h=使用 'gcc' 编译。
+[?1h=[警告: 您使用的 gcc 版本为 '5.4.0'。不支持该版本的 gcc。MEX 当前支持的版本为 '4.9.x'。有关
+当前支持的编译器列表，请参阅:
+http://www.mathworks.com/support/compilers/current_release。] 
+[> In stest_fft (line 3)
+  In atest_fft (line 29)] 
+[?1h=[?1h=[?1h=MEX 已成功完成。
+fft's testcase 3 success
+[?1l>

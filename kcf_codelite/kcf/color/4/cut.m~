@@ -1,0 +1,10 @@
+
+
+
+img_files = dir('*.jpg');
+
+for i=1:size(img_files,1)
+    image = imread(img_files(i).name);
+    image1 = image(51:90,21:120);
+    imwrite(image1,strcat('0000',img_files(i).nam));
+end

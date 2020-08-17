@@ -1,0 +1,12 @@
+# Ignore model files that are auto-generated
+
+#kcf_codelite
+
+kcf_codelite/Makefile
+kcf_codelite/kcf.zip
+kcf_codelite/kcf.workspace
+
+kcf_codelite/kcf/kcf.txt
+kcf_codelite/kcf/kcf.mk
+kcf_codelite/kcf/kcf.project
+kcf_codelite/kcf/Debug
